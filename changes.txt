@@ -1,0 +1,146 @@
+
+// DASHBOARD 
+
+.inner-page-crumb {
+    background: #f70f0e;      style.css:4006
+}
+
+.crumb ul li, .crumb ul li a {
+    color: #ffff;			style.css:4011
+}
+
+.btn-flat {
+    background-color: #f70f0e;
+    border-color: #f70f0e;		custom.css:9
+}
+
+a.readmore {
+    border-color: rgba(255, 0, 0, 0.17);	style.css 1617
+}
+
+aside .widget {
+    border: 1px solid rgb(255, 212, 212);	style.css 2056
+}
+
+.btn-default {
+    color: #fff;
+    background-color: #f70f0e;			style.css 2073
+    border-color: #ccc;
+}
+
+.btn-default:hover {
+    color: #fff;
+    background-color: #0e7a22 !important;	style.css 2078
+    border-color: #ccc;
+}
+
+hr {
+    
+    border-top: 1px solid #ffd4d4;		normalize.css 212
+}
+
+.contact-widget > li {
+    border: 1px solid #ffd4d4;		style.css 1681			
+}
+
+.contact-widget li span {
+    color: #0e7a22;			style.css 1688
+}
+
+
+
+// -Army portal
+
+.inner-page-crumb {
+    background: #f70f0e;		 style.css 3993
+}
+
+.crumb ul li, .crumb ul li a {
+    color: #fff;			style.css 3998 
+}
+
+.blog-single {
+    border: 1px solid rgb(255, 212, 212);	style.css 3922
+}
+
+.post-head {
+    border-bottom: 1px solid rgb(255, 212, 212);   style.css 3926
+}
+
+.comments-sec {
+    border: 1px solid rgb(255, 212, 212);	 style..css 2614
+}
+
+.single-title > h4 {
+    border-bottom: 1px solid #ffd4d4;		style.css 2574
+}
+
+.contact-form{
+    border:1px solid rgb(255, 212, 212);	style.css 2699
+}
+
+.contact-form form textarea {
+    border: 1px solid #ffd4d4;			style.css 2718
+}
+
+.login-register > a, .login-popup button, .news-title, 
+.readmore i, .branches li.active a, .social li a:hover,
+ .progress-posts-slide .progress-bar, .owl-dot.active, 
+.contact-form form button, .trend-meta > a, 
+.tag > li a:hover, .subscribe-us button, .sidebar-login form button,			style.css 4064
+ .pagination > li a:hover, .pagination li.active a, .sec-heading::before,
+ .tags-cloud > li a:hover, .owl-next:hover:before, .owl-prev:hover:before, 
+.mega-menu1 .nav.nav-tabs > li:hover a, .mega-menu1 .nav.nav-tabs > li.active a {
+    background: #f70f0e;
+}
+
+aside .widget {
+    border: 1px solid rgb(255, 212, 212);		style.css 2053
+}
+
+.readmore, .owl-dot.active, .tag > li a:hover, .pagination li.active a, aside.widget-title > h4, .tags-cloud > li a:hover {
+    border-color: #ffd4d4;			style.css 4104
+}
+
+
+.tags-cloud > li a {
+    border: 1px solid #ffd4d4;			style.css 2089
+    color: #fff;
+    background: #0e7a22;
+}
+
+
+// Update password
+
+.contact-form label {
+    color: #0e7a22;			style.css 2746
+}
+
+.contact-form p {
+    color: #E91E63;			style.css 2738
+}
+
+.contact-form form input {
+    border: 1px solid #ffd4d4;		style.css 2709
+}
+
+
+// Update profile
+.form-control{
+    color: #0e7a22;
+    border: 1px solid rgb(255, 212, 212);        update profile html internal css
+}
+.btn{
+    background: #0e7a22;		update profile html internal css
+    border-color:#0e7a22;
+}
+.btn-primary:hover {
+    color: #fff;
+    background-color: #f70f0e;			update profile html internal css
+    border-color: #f70f0e;
+}
+
+.select-control {
+color: #0e7a22;
+border: 1px solid rgb(255, 212, 212);		update profile html internal css
+}

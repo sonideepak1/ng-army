@@ -1,0 +1,83 @@
+.skin-purple-light .main-header .logo {
+    background-color: #f70f0e;	
+}
+.skin-purple-light .main-header .navbar {
+    background-color: #f70f0e;
+}
+.skin-purple-light .main-sidebar {
+    border-right: 1px solid #f70f0e;
+}
+.skin-purple-light .wrapper, .skin-purple-light .main-sidebar, .skin-purple-light .left-side {
+    background-color: #0e7a22;
+}
+.skin-purple-light .user-panel>.info, .skin-purple-light .user-panel>.info>a {
+    color: #fff;
+}
+
+.skin-purple-light .user-panel>.info, .skin-purple-light .user-panel>.info>a {
+    color: #fff;
+}
+
+.skin-purple-light .sidebar-menu>li:hover>a, .skin-purple-light .sidebar-menu>li.active>a {
+    color: #fff;
+    background: #8bc34a6b;
+}
+
+.text-purple {
+    color: #fff !important;
+}
+
+.skin-purple-light .sidebar a {
+    color: #fff;
+}
+
+.skin-purple-light .sidebar-menu>li.header {
+    color: #fff;
+    background: #8bc34a6b;
+}
+
+.bg-grey {
+    background-color: #fff;
+}
+
+.small-box>.small-box-footer {
+    background: rgba(0, 0, 0, 0.53);
+   
+}
+
+.small-box:hover {
+    text-decoration: none;
+    color: #f70f0e;
+}
+
+.main-footer {
+    background: #444;
+    color: #fff;
+}
+
+.box {
+border-top: 3px solid #f70f0e;
+}
+
+.box-comments {
+    background: #ffe5001c;
+}
+
+.box-comments .username {
+    color: #0e7a22;
+}
+
+.box-comments .comment-text {
+    color: #0e7a22;
+}
+
+a:hover, a:active, a:focus {
+    color: #f70f0e;
+}
+
+a {
+    color: #0e7a22;
+}
+.text-success {
+    color: #8BC34A;
+}
